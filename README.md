@@ -80,49 +80,49 @@ The open-source ITSM landscape offers robust, self-hostable alternatives spannin
 
 Entries are sorted in descending order of **GitHub Star Count**:
 
-* 💬 **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+* 💬 **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   Omnichannel customer engagement suite and service desk platform (AGPL v3) supporting live chat, email, social messaging integrations, and collaborative triage queues.
 
-* 🌐 **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
+* 🌐 **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub_Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
   Premier open-source network infrastructure source of truth, IPAM, and DCIM suite (Apache 2.0) serving as the authoritative Configuration Management Database (CMDB) core for modern network engineering and infrastructure operations.
 
-* 🎫 **[UVdesk](https://github.com/uvdesk/community-skeleton)** [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
+* 🎫 **[UVdesk](https://github.com/uvdesk/community-skeleton)** [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
   Enterprise-grade, extensible open-source helpdesk ticketing system (MIT) built on PHP Symfony with multi-channel support, automated workflows, and custom mailbox integrations.
 
-* 📦 **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
+* 📦 **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
   Leading open-source IT Asset Management (ITAM) platform (AGPL v3) for tracking hardware lifecycles, software licenses, accessories, and digital consumables with QR/barcode scanning.
 
-* 🏢 **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+* 🏢 **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   Comprehensive open-source ITSM and ITAM suite (GPL v3) covering ITIL-aligned incident, problem, and change management, CMDB, financial asset accounting, and knowledge bases in a unified stack.
 
-* 📨 **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+* 📨 **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
   Modern web-based helpdesk and ticketing platform (AGPL v3) featuring real-time collision detection, multi-channel communication (email, chat, telephone, social), smart auto-assignment, and clean REST APIs.
 
-* 📬 **[FreeScout](https://github.com/freescout-helpdesk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers)  
+* 📬 **[FreeScout](https://github.com/freescout-helpdesk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers)  
   Lightweight, privacy-focused open-source helpdesk and shared inbox (AGPL v3) built on Laravel, engineered as a seamless self-hosted alternative to Zendesk and Help Scout.
 
-* 🎯 **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+* 🎯 **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
   Widely adopted open-source support ticket system (GPL v2) featuring customizable ticket forms, rich text formatting, automated routing rules, and SLA tracking.
 
-* 🍃 **[Peppermint](https://github.com/peppermintenterprise/peppermint)** [![GitHub stars](https://img.shields.io/github/stars/peppermintenterprise/peppermint?style=social&color=white)](https://github.com/peppermintenterprise/peppermint/stargazers)  
+* 🍃 **[Peppermint](https://github.com/peppermintenterprise/peppermint)** [![GitHub_Stars](https://img.shields.io/github/stars/peppermintenterprise/peppermint?style=social&color=white)](https://github.com/peppermintenterprise/peppermint/stargazers)  
   Lightweight, modern open-source ticket management system (MIT) crafted with Node.js and React, providing a rapid, no-fuss service desk interface.
 
-* 🖥️ **[Ralph](https://github.com/allegro/ralph)** [![GitHub stars](https://img.shields.io/github/stars/allegro/ralph?style=social&color=white)](https://github.com/allegro/ralph/stargazers)  
+* 🖥️ **[Ralph](https://github.com/allegro/ralph)** [![GitHub_Stars](https://img.shields.io/github/stars/allegro/ralph?style=social&color=white)](https://github.com/allegro/ralph/stargazers)  
   Asset management, Data Center Infrastructure Management (DCIM), and CMDB platform (Apache 2.0) designed for large enterprise server racks, hardware lifecycles, and software license compliance.
 
-* ⚡ **[Trudesk](https://github.com/trudesk/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/trudesk/trudesk?style=social&color=white)](https://github.com/trudesk/trudesk/stargazers)  
+* ⚡ **[Trudesk](https://github.com/trudesk/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/trudesk/trudesk?style=social&color=white)](https://github.com/trudesk/trudesk/stargazers)  
   Open-source helpdesk solution (Apache 2.0) built with Node.js and MongoDB, providing real-time ticket updates, built-in chat, and performance reporting.
 
-* 🛠️ **[iTop](https://github.com/Combodo/iTop)** [![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
+* 🛠️ **[iTop](https://github.com/Combodo/iTop)** [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
   ITIL-aligned open-source ITSM &amp; CMDB system (AGPL v3) delivering detailed configuration item (CI) dependency visualization, incident management, change workflows, and SLA enforcement.
 
-* 🛡️ **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
+* 🛡️ **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
   Industrial-strength, battle-tested ticketing and issue tracking system (GPL v2) used worldwide by NOCs, corporate infrastructure teams, and cybersecurity teams (RTIR).
 
-* 🔄 **[Znuny](https://github.com/znuny/Znuny)** [![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
+* 🔄 **[Znuny](https://github.com/znuny/Znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
   Actively maintained community fork of OTRS Community Edition (GPL v3), focusing on long-term stability, robust ITIL service delivery, and enterprise ticket automation.
 
-* 🦉 **[OTOBO](https://github.com/RotherOSS/otobo)** [![GitHub stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)  
+* 🦉 **[OTOBO](https://github.com/RotherOSS/otobo)** [![GitHub_Stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)  
   Flexible open-source service management suite (GNU GPL) based on OTRS with an updated customer portal, CMDB integration, and customizable process management.
 
 ---
