@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[ServiceNow](https://www.servicenow.com/)**  
-
-  Enterprise ITSM platform and industry standard for complex workflows, full ITIL coverage, CMDB, and AI-assisted operations (Now Assist).
-
-
-
-- **[Jira Service Management](https://www.atlassian.com/software/jira/service-management)**  
-
-  Atlassian’s ITSM solution tightly integrated with Jira — strong for engineering-led teams, ITIL 4 practices, and DevOps alignment.
-
-
-
-- **[Freshservice](https://www.freshworks.com/freshservice/)**  
-
-  Modern, mid-market ITSM platform with intuitive UX, asset management, and AI capabilities (Freddy).
-
-
-
-- **[ManageEngine ServiceDesk Plus](https://www.manageengine.com/products/service-desk/)**  
-
-  Cost-effective ITSM suite covering help desk, asset management, and ITIL processes with flexible deployment options.
-
-
-
-- **[SysAid](https://www.sysaid.com/)**  
-
-  ITSM platform with strong automation, asset management, and service-desk features for small to mid-market teams.
-
-
-
-- **[TOPdesk](https://www.topdesk.com/)**  
-
-  Service management platform popular in Europe, focused on IT and enterprise service management with a clean user experience.
-
-
-
-- **[HaloITSM](https://haloitsm.com/)**  
-
-  Flexible ITSM platform known for configurability, strong support, and mid-market to enterprise deployments.
-
-
-
-- **[BMC Helix](https://www.bmc.com/it-solutions/bmc-helix.html)**  
-
-  Enterprise ITSM and operations platform with deep AI, automation, and service-management capabilities.
-
-
-
-- **[InvGate Service Desk](https://invgate.com/)**  
-
-  Modern service-desk and ITSM solution emphasizing usability and operational efficiency.
-
-
-
-- **[EasyVista](https://www.easyvista.com/)**  
-
-  ITSM and service-management platform focused on automation, self-service, and enterprise service delivery.
+| Product | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[ServiceNow](https://www.servicenow.com/)** | Enterprise ITSM platform and industry standard for complex workflows, full ITIL coverage, CMDB, and AI-assisted operations (Now Assist). | ~$70 – $100 / user / month (ITSM Fulfiller seat, enterprise quote-based) | Free Personal Developer Instance (PDI) for sandbox and learning (full platform access; hibernates after inactivity); 30-day enterprise POC upon sales approval |
+| **[Jira Service Management](https://www.atlassian.com/software/jira/service-management)** | Atlassian’s ITSM solution tightly integrated with Jira — strong for engineering-led teams, ITIL 4 practices, and DevOps alignment. | $20 / agent / month (Standard plan, monthly billing) / $17.60 / agent / month (billed annually) | **Free Forever Plan**: Up to 3 agents, 2 GB file storage, 500 automation runs/month, 100 email notifications/day (also offers 7-day trial of Standard/Premium tiers) |
+| **[Freshservice](https://www.freshworks.com/freshservice/)** | Modern, mid-market ITSM platform with intuitive UX, asset management, and AI capabilities (Freddy). | $19 / agent / month (Starter plan, billed annually) or $29 / agent / month (monthly billing) | **14-day free trial**: Full access to Enterprise-level features, up to 100 requesters, unlimited tickets, no credit card required |
+| **[ManageEngine ServiceDesk Plus](https://www.manageengine.com/products/service-desk/)** | Cost-effective ITSM suite covering help desk, asset management, and ITIL processes with flexible deployment options. | $13 / technician / month (Standard Cloud, billed annually) or $16 / technician / month (monthly billing) | **Free Forever Edition**: Up to 5 technicians, unlimited requesters (Standard Edition); 30-day free trial of full Cloud editions |
+| **[SysAid](https://www.sysaid.com/)** | ITSM platform with strong automation, asset management, and service-desk features for small to mid-market teams. | $89 / agent / month (Professional plan with unlimited AI agents) | **30-day free trial**: Full access to service desk and AI automation features, no credit card required |
+| **[TOPdesk](https://www.topdesk.com/)** | Service management platform popular in Europe, focused on IT and enterprise service management with a clean user experience. | €61 (~$66–$76) / agent / month (Essential plan, billed annually) | **30-day free trial**: Full access to operator console, incident & asset management, and self-service portal, no credit card required |
+| **[HaloITSM](https://haloitsm.com/)** | Flexible ITSM platform known for configurability, strong support, and mid-market to enterprise deployments. | $49 – $70 / agent / month (scales with team size; starting around $99/agent/mo for small teams) | **30-day free trial**: Full access to all ITIL modules, workflow automation, and self-service portal, no credit card required |
+| **[BMC Helix](https://www.bmc.com/it-solutions/bmc-helix.html)** | Enterprise ITSM and operations platform with deep AI, automation, and service-management capabilities. | ~$115 – $320 / named user / month (Enterprise ITSM suite, annual contract based on custom quote) | **30-day guided POC / evaluation instance**: Full access to configured environment upon sales request and approval |
+| **[InvGate Service Desk](https://invgate.com/)** | Modern service-desk and ITSM solution emphasizing usability and operational efficiency. | $25 / agent / month ($1,499/year fixed for Starter tier up to 5 agents, unlimited requesters) | **30-day free trial**: Full access to ticketing, asset management, and automation workflows, no credit card required |
+| **[EasyVista](https://www.easyvista.com/)** | ITSM and service-management platform focused on automation, self-service, and enterprise service delivery. | ~$35 – $50 / user / month (Enterprise core ITSM, quote-based) / $125 / user / month (Self Help tier) | **15-day free trial** for specific tools (e.g., EV Reach); customized proof-of-concept (POC) and interactive demo on request |
 
 
 
